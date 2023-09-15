@@ -1,4 +1,6 @@
-/**
+/** My leetcode account https://leetcode.com/Vetarium/
+ * 
+ * 
  * @return {Function}
  */
 var createHelloWorld = function() {
